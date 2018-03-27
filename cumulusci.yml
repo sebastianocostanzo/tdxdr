@@ -2,7 +2,7 @@ project:
     name: tdxdr
     package:
         name:  tdxdr
-        namespace: hedsebextestext
+        namespace: hedsebtestext 
         api_version: '42.0'
     dependencies:
         - github: 'https://github.com/SalesforceFoundation/HEDAP'
